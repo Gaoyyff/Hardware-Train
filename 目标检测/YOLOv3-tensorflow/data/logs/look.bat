@@ -1,0 +1,1 @@
+tensorboard --logdir=events.out.tfevents.1625201792
